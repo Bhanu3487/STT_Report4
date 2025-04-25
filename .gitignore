@@ -1,0 +1,65 @@
+#==================================================================
+# General Visual Studio / .NET generated files
+# Recommended: https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+#==================================================================
+
+## Ignore Visual Studio temporary files, build results, and user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore NuGet packages folder (older style)
+# Usually, packages are managed globally now, but good to include for older projects.
+packages/
+*.nupkg
+
+## Ignore Roslyn classification cache
+*.rsuo
+
+## Ignore files produced by Visual Studio testing
+*.cache
+*.trx
+TestResults/
+*.coverage
+*.coveragexml
+
+## Ignore build output folders
+**/[Bb]in/
+**/[Oo]bj/
+
+## Ignore Visual Studio Generated code folders
+Generated\ Files/
+
+## Ignore Visual Studio Code specific settings
+.vscode/
+
+## Ignore Rider specific settings
+.idea/
+
+## Ignore publish output
+**/[Pp]ublish/
+
+
+## Ignore Windows image file caches
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+## Ignore Windows Content Indexer/Search Folder metadata files
+[Dd]esktop.ini
+
+## Ignore Mac OS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+## Ignore log files
+*.log
+
+## Ignore local temp files
+*.tmp
+
+## Ignore local backup files
+*.bak

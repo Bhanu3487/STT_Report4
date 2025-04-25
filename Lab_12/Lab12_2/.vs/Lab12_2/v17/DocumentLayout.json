@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|c:\\users\\bhanu\\onedrive\\desktop\\courses\\sem6\\stt\\22110221_a4\\lab12_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|c:\\users\\bhanu\\onedrive\\desktop\\courses\\sem6\\stt\\22110221_a4\\lab12_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|c:\\users\\bhanu\\onedrive\\desktop\\courses\\sem6\\stt\\22110221_a4\\lab12_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|c:\\users\\bhanu\\onedrive\\desktop\\courses\\sem6\\stt\\22110221_a4\\lab12_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8275A1BF-83E4-4845-8E4D-4EFF4656A7AB}|Lab12_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:27:25.352Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:08:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:08:43.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bhanu\\OneDrive\\Desktop\\courses\\sem6\\STT\\22110221_A4\\Lab12_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:08:41.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
